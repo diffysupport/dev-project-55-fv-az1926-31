@@ -1,7 +1,7 @@
 basic:
-    name: 'Welch Inc'
+    name: 'Durgan, Ebert and Reilly'
     environments:
-        production: 'https://www.gleichner.net/dicta-dolores-aut-ex-atque'
+        production: 'https://www.gerhold.com/'
         staging: ''
         development: ''
     breakpoints:
